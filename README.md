@@ -8,7 +8,7 @@ You will need to create an Email account and share the credentials with those yo
 ## Installation
 You can enter the following commands:
 ```
-git clone <link>
+git clone https://github.com/timezexioisic/CommonMailChat/
 ```
 ```
 cd CommonMailChat
